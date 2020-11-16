@@ -1,0 +1,13 @@
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\bin\Debug\netcoreapp3.1\TDI_Task_03.exe
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\bin\Debug\netcoreapp3.1\TDI_Task_03.deps.json
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\bin\Debug\netcoreapp3.1\TDI_Task_03.runtimeconfig.json
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\bin\Debug\netcoreapp3.1\TDI_Task_03.runtimeconfig.dev.json
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\bin\Debug\netcoreapp3.1\TDI_Task_03.dll
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\bin\Debug\netcoreapp3.1\TDI_Task_03.pdb
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\obj\Debug\netcoreapp3.1\TDI_Task_03.csprojAssemblyReference.cache
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\obj\Debug\netcoreapp3.1\TDI_Task_03.AssemblyInfoInputs.cache
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\obj\Debug\netcoreapp3.1\TDI_Task_03.AssemblyInfo.cs
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\obj\Debug\netcoreapp3.1\TDI_Task_03.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\obj\Debug\netcoreapp3.1\TDI_Task_03.dll
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\obj\Debug\netcoreapp3.1\TDI_Task_03.pdb
+D:\DOCUMENTS\STADYING\PRACTICE\TrainingPractice_01\TDI_Task_03\obj\Debug\netcoreapp3.1\TDI_Task_03.genruntimeconfig.cache
